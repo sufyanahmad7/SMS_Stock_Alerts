@@ -1,4 +1,4 @@
-# Automated_Birthday_Wisher
+# SMS_Stock_Alerts
 
 ## :book: Introduction
 
