@@ -29,7 +29,7 @@ Like any other investor, there are some companies which I follow closely; and Cr
 
 
 ## :bowtie: Reflections
-This was one of the hardest projects to work on. The most challenging part was storing the dictionary keys into lists and using the same list items to retrive the respective values. Google and StackOverflow were my best friends during the hardship. It didn't help that AlphaVantage allowed a maximum number of 25 calls from an IP address in a day.
+This was one of the hardest projects to work on. The most challenging part was storing the dictionary keys into lists and using the same list items to retrive the respective values. Google and StackOverflow were my best friends during the hardship. It didn't help that AlphaVantage limited me to 25 calls from an IP address in a day.
 
 
 Difficulty Level: 8️⃣
