@@ -23,10 +23,6 @@ Like any other investor, there are some companies which I follow closely; and Cr
 1. Code structure can be in modules for readability and maintainability. Perhaps, the SMS trigger part can be in a function in a different class.
 2. Can be hosted in PythonAnywhere to run it everyday.
 
-## :runner: Future improvements
-
-1. Work on existing limitations.
-
 
 ## :bowtie: Reflections
 This was one of the hardest projects to work on. The most challenging part was storing the dictionary keys into lists and using the same list items to retrive the respective values. Google and StackOverflow were my best friends during the hardship. It didn't help that AlphaVantage limited me to 25 calls from an IP address in a day.
